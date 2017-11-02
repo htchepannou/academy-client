@@ -51,6 +51,17 @@
     </build>
 
 
+    <distributionManagement>
+        <snapshotRepository>
+            <id>io.tchepannou.maven</id>
+            <url>s3://io.tchepannou.maven/snapshot</url>
+        </snapshotRepository>
+        <repository>
+            <id>io.tchepannou.maven</id>
+            <url>s3://io.tchepannou.maven/release</url>
+        </repository>
+    </distributionManagement>
+
     <repositories>
         <repository>
             <id>maven-central</id>
