@@ -12,6 +12,9 @@ Client classes for Academy API
 - Java 1.8
 - Maven
 
+## Dependencies
+- hibernate-validator v5.3.5.Final
+
 
 ## License
 This project is open source sofware under the [MIT License](https://opensource.org/licenses/MIT)
