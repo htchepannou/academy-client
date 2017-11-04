@@ -1,7 +1,7 @@
 
-package io.tchepannou.academy.client.dto;
+package io.tchepannou.academy.client;
 
-import io.tchepannou.academy.client.BaseResponse;
+import io.tchepannou.academy.client.dto.ErrorDto;
 
 import java.util.ArrayList;
 import java.util.List;
